@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'StudySync - AI-Powered Study & Collaboration Platform',
-  description: 'Organize study schedules, collaborate with peers, and receive AI-assisted learning suggestions to boost your academic productivity.',
+  description: 'Organize your study schedule, collaborate with peers, and receive AI-assisted learning suggestions.',
 }
 
 export default function RootLayout({
